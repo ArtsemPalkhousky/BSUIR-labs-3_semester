@@ -14,7 +14,7 @@ int main() {
     cout << "Введите элементы 2-ого массива: " << endl;
     arr2.add();
     system("CLS");
-    cout << "Исходные массивы: " << endl;
+    cout << "Исходные массивы: gbtbb " << endl;
     arr1.show();
     arr2.show();
     Array MyArray;
