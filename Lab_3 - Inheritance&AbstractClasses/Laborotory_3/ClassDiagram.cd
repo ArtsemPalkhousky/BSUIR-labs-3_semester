@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Circle">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAgAAAAAAAAAAAAAAAgEAAAAAAIAAQAAAAA=</HashCode>
+      <FileName>circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallelepiped">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAAAAEAAAQAIIAAQAQAAA=</HashCode>
+      <FileName>parallelepiped.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAAAAAAAAAAABAAAEAAAAAAIAAQAAAAA=</HashCode>
+      <FileName>Shape_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreeDshape">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAQA=</HashCode>
+      <FileName>ThreeDShape_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoDshape">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAACgAAAAAAAAAAA=</HashCode>
+      <FileName>TwoDShape_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAEAAAAAAAIAAAAAAAAAEAAAAAAIgAQAAAAA=</HashCode>
+      <FileName>square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAAAAAAQAAAAAAAAEAAAAAAIAAQAIAAA=</HashCode>
+      <FileName>sphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
